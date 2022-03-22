@@ -1,0 +1,16 @@
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.MainForm.resources
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\anabl\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.MainForm.resources
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\SAMSUNG\OneDrive\Documentos\Sharp Develop Projects\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
